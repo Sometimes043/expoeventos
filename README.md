@@ -1,7 +1,3 @@
-# ConferenceApp (generated)
-
-Project generated from user's ER diagram. 
-
 How to run:
 1. Open with IntelliJ/Eclipse or use Maven:
    mvn spring-boot:run
