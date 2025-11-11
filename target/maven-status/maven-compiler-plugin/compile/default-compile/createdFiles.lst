@@ -1,0 +1,17 @@
+com\exemplo\conferenceapp\controller\UserController.class
+com\exemplo\conferenceapp\service\UserService.class
+com\exemplo\conferenceapp\model\Conference.class
+com\exemplo\conferenceapp\service\SessionService.class
+com\exemplo\conferenceapp\repository\SubscriptionRepository.class
+com\exemplo\conferenceapp\repository\ConferenceRepository.class
+com\exemplo\conferenceapp\controller\SessionController.class
+com\exemplo\conferenceapp\controller\SubscriptionController.class
+com\exemplo\conferenceapp\ConferenceAppApplication.class
+com\exemplo\conferenceapp\controller\ConferenceController.class
+com\exemplo\conferenceapp\model\Subscription.class
+com\exemplo\conferenceapp\service\ConferenceService.class
+com\exemplo\conferenceapp\service\SubscriptionService.class
+com\exemplo\conferenceapp\repository\SessionRepository.class
+com\exemplo\conferenceapp\repository\UserRepository.class
+com\exemplo\conferenceapp\model\Session.class
+com\exemplo\conferenceapp\model\User.class
